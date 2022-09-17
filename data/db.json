@@ -1,0 +1,13 @@
+{
+  "my_data": [
+    {
+      "name": "rohan sharma",
+      "email": "email@email.com",
+      "ph_no": "9876546454",
+      "Address": "Dhapakhel",
+      "Education": "B.E. in Computer engineering,IOE-TU",
+      "id": 1,
+      "UpdatedAt": 1660503818197
+    }
+  ]
+}

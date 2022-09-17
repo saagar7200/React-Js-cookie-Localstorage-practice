@@ -1,0 +1,25 @@
+.edit{
+    background: #000;
+    height: 100vh;
+    border: 1px solid rgb(185, 27, 27);
+}
+
+.edit-container{
+  background-color: aqua;
+  border: 1px solid rgb(221, 17, 17);
+
+}
+
+.edit-content-wrapper{
+    background-color: blue;
+    width: 80vmax;
+    min-height: 100vmax;
+    border: 1px solid rgb(196, 28, 28) !important;
+
+}
+.edit-content{
+    
+    border: 1px solid rgb(196, 28, 28) ;
+
+    
+}
